@@ -1,15 +1,15 @@
 ## Hello there !
 
-I'm Xan Delayat, a 20 years old computer engineering student willing to code until the end of his life. 🔭
+I'm <h1 color="red">Xan Delayat</h1>, a 20 years old computer engineering student willing to code until the end of his life. 🔭
 
 More about me here:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xan-delayat-397a72302/)
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xan-delayat-397a72302/)
 
 ---
 
-<p align="center"; width="200";>
+<p align="center"; width="300";>
   <img src="octocat-1774135897722.png" width="200">
 </p>
 
