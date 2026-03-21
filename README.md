@@ -9,7 +9,9 @@ More about me here:
 
 ---
 
-![My octocat](octocat-1774135897722.png)
+<p align="center"; width="200";>
+  <img src="octocat.png" width="200">
+</p>
 
 <!--
 **xandelayat64/xandelayat64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
