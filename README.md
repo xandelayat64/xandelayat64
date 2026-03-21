@@ -1,6 +1,6 @@
 ## Hello there !
 
-# I'm [xandelayat64]
+# I'm Xan Delayat, a 20 years old computer engineering student willing to code until the end of his life. 🔭
 
 <!--
 **xandelayat64/xandelayat64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
