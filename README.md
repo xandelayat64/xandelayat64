@@ -10,7 +10,7 @@ More about me here:
 ---
 
 <p align="center"; width="200";>
-  <img src="octocat.png" width="200">
+  <img src="octocat-1774135897722.png" width="200">
 </p>
 
 <!--
