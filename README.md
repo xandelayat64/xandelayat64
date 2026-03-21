@@ -1,10 +1,13 @@
 ## Hello there !
 
-I'm Xan Delayat, a 20 years old computer engineering student willing to code until the end of his life. 🔭
+I'm Xan Delayat, ![Age](https://api.age-calculator.workers.dev/?dob=2000-01-01) computer engineering student willing to code until the end of his life. 🔭
 
 More about me here:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xan-delayat-397a72302/)
+
+
+
 
 <!--
 **xandelayat64/xandelayat64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
