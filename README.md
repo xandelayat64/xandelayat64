@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello there !
+
+I'm Xan Delayat, a ![Age](https://api.age-calculator.workers.dev/?dob=2005-09-05)
 
 <!--
 **xandelayat64/xandelayat64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
