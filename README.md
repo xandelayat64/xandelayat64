@@ -1,6 +1,6 @@
 ## Hello there !
 
-I'm Xan Delayat, a 20 computer engineering student willing to code until the end of his life. 🔭
+I'm Xan Delayat, a 20 years old computer engineering student willing to code until the end of his life. 🔭
 
 More about me here:
 
@@ -8,6 +8,7 @@ More about me here:
 
 
 ---
+
 
 
 <!--
