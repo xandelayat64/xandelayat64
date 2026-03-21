@@ -2,7 +2,8 @@
 
 I'm Xan Delayat, a 20 years old computer engineering student willing to code until the end of his life. 🔭
 
-My socials:
+More about me here:
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xan-delayat-397a72302/)
 
 <!--
