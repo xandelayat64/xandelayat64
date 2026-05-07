@@ -1,6 +1,6 @@
 ## Hello there !
 
-I'm <p font="bold">Xan Delayat</p>, a NOT_PROVIDED_AGE years old computer engineering student willing to code until the end of his life. 🔭
+I'm <strong>Xan Delayat</strong>, a NOT_PROVIDED_AGE years old computer engineering student willing to code until the end of his life. 🔭
 
 More about me here:
 
