@@ -1,4 +1,4 @@
-## Hello there !
+## <u>Hello there</u> !
 
 I'm <strong>Xan Delayat</strong>, a <strong>NOT_PROVIDED_AGE</strong> years old computer engineering student willing to code until the end of his life. 🔭
 
