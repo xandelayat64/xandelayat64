@@ -15,7 +15,8 @@ I'm <strong>Xan Delayat</strong>, a <strong>NOT_PROVIDED_AGE</strong> years old 
 
 # My stack:
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBqZt7jmfJN14Agt0b0MUTvGfDxbcBe7frEJComVwuWQ&s=10
+<img width="540" height="566" alt="image" src="https://github.com/user-attachments/assets/407b4138-af26-4166-a0c8-afdbf3b13688" />
+
 <!--
 **xandelayat64/xandelayat64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
